@@ -104,6 +104,7 @@ h3.clear{
 
 h3 {
  color: #fff;
+ font-size: 38px;
 }
 
 h4 {
@@ -236,6 +237,11 @@ td.em{
 }
 
 th.sta{
+  font-size: 30px;
+}
+
+td.stf{
+  padding: 20px;
   font-size: 30px;
 }
 /*** image styles ***/
